@@ -5,6 +5,7 @@ from _divide import DivideNumbers
 from build_request import CalculationRequest
 
 if __name__ == '__main__':
+    # add > sub > multi > div
     first_chain = AddNumbers()
     second_chain = SubtractNumbers()
     third_chain = MultiplyNumbers()
